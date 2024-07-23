@@ -1,4 +1,3 @@
-import _ from "lodash";
+import two from './src/index.js';
 
-console.log("Hello, Hexlet!");
-console.log(_.last(['one', 'two']));
+const moew = two();
